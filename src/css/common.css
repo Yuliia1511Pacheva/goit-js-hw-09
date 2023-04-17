@@ -50,6 +50,12 @@ border-radius: 7px;
   margin-bottom: 30px;
 }
 
+.btnStart:hover{
+  background-color: deeppink;
+  border-color: #fafafa;
+  color: #fafafa;
+}
+
 .timer{
   display: flex;
   justify-content: center;
